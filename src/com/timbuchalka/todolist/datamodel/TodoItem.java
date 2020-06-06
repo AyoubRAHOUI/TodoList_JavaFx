@@ -2,9 +2,6 @@ package com.timbuchalka.todolist.datamodel;
 
 import java.time.LocalDate;
 
-/**
- * Created by timbuchalka on 17/04/2016.
- */
 public class TodoItem {
 
     private String shortDescription;
