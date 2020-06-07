@@ -28,7 +28,7 @@ public class Controller {
     private Label deadlineLabel;
 
     public void initialize() {
-        TodoItem item1 = new TodoItem("Mail birthday card", "Buy a 30th birthday card for John",
+        TodoItem item1 = new TodoItem("Mail birthday card", "Buy a 30th birthday card for Peter",
                 LocalDate.of(2016, Month.APRIL, 25));
         TodoItem item2 = new TodoItem("Doctor's Appointment", "See Dr. Smith at 123 Main Street.  Bring paperwork",
                 LocalDate.of(2016, Month.MAY, 23));
